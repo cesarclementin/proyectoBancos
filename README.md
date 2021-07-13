@@ -1,4 +1,5 @@
 Generar un programa para una red de cajeros automáticos.
+
 Cuentas:
 Deberán registrarse los datos de todas las cuentas de los clientes de un banco. Estos datos ingresan desordenados. De cada cuenta se conoce  el número de cuenta , monto límite diario para extracciones, saldo inicial de la cuenta y su clave para cajeros automáticos (4 dígitos).  Se ingresarán datos de las cuentas mientras se responda afirmativamente a la pregunta “¿Hay más cuentas para cargar (S/N)?”
 Movimientos:
